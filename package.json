@@ -1,0 +1,7 @@
+{
+  "name": "hii",
+  "private": true,
+  "dependencies": {
+    "devcamp-js-builder": "^1.3.1"
+  }
+}
