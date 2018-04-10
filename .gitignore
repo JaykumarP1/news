@@ -21,3 +21,5 @@
 /yarn-error.log
 
 .byebug_history
+#hidding the screte key
+/config/secrets.yml
